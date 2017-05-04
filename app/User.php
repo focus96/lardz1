@@ -12,6 +12,7 @@ class User extends Authenticatable
     public function Add(){
         $a = 2;
         $b = 2*a;
+        $c = 4;
     }
     public function functionName($param) {
         
