@@ -9,13 +9,8 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 class User extends Authenticatable
 {
     use Notifiable;
-    public function Add(){
-        $a = 2;
-    }
-    public function functionName($param) {
-        
-    }
-
+    
+    
     /**
      * The attributes that are mass assignable.
      *
